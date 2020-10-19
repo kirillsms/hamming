@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603110232 source:c:\it\src\hamming\main.c
+	<math.h>
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<stdlib.h>
+	<time.h>
+
